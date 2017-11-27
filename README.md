@@ -1,4 +1,4 @@
-# Portfolio Website (<a href="http://www.rajujha.me">Link</a>)
+# Portfolio Website 
 
 Managing the portfolio site was always a pain if just frontend was used. Even for minute changes to be made, whole website code was to be formatted. I have used django for CMS (Content Management Service) to ease the pain of editing whole code for any changes.
 
@@ -14,7 +14,7 @@ Do star the repo if you think it worth it.
 # How to run in your local machine?
 
 1. Firstly, clone the repository using the git shell <br>
-<code>$ git clone https://github.com/rajujha373/portfolio.git</code> <br>
+<code>$ git clone https://github.com/sahadevbite/MyPortfolio.git</code> <br>
 2. Goto the base directory of the project <br>
 <code>cd portfolio </code> <br>
 3. Create a virtual environment and activate it. <br>
@@ -27,14 +27,14 @@ Do star the repo if you think it worth it.
 
 # Screenshots
 
-<img src="/screenshots/home.png">
+<img src="/screenshots/home1.png">
 &nbsp;
-<img src="/screenshots/blog.png">
+<img src="/screenshots/blog1.png">
 &nbsp;
-<img src="/screenshots/post.png">
+<img src="/screenshots/post1.png">
 &nbsp;
-<img src="/screenshots/login.png">
+<img src="/screenshots/login1.png">
 &nbsp;
-<img src="/screenshots/dashboard.png">
+<img src="/screenshots/dashboard1.png">
 &nbsp;
-<img src="/screenshots/addpost.png">
+<img src="/screenshots/addpost1.png">
